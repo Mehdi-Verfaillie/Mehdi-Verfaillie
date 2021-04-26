@@ -7,15 +7,15 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=javascript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![JavaScript](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![JavaScript](https://img.shields.io/badge/-WebRTC-05122A?style=flat&logo=webrtc)&nbsp;
-![JavaScript](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=javascript)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
+![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![WebRTC](https://img.shields.io/badge/-WebRTC-05122A?style=flat&logo=webrtc)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
